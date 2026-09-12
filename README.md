@@ -1,11 +1,11 @@
-# bash-scripts-linux-Fedora# 🚀 Лабораторні роботи з адміністрування Linux
+# bash-scripts-linux-Fedora# Лабораторні роботи з адміністрування Linux
 
-[![OS - Fedora](https://img.shields.io/badge/OS-Fedora-294172?logo=fedora&logoColor=white)](#)
-[![Language - Bash](https://img.shields.io/badge/Language-Bash-4EAA25?logo=gnu-bash&logoColor=white)](#)
+[![OS - Fedora](https://img.shields.io/badge/OS-Fedora-294172?logo=fedora&logoColor=white)](https://fedoraproject.org/)
+[![Language - Bash](https://img.shields.io/badge/Language-Bash-4EAA25?logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 
 Цей репозиторій містить набір Bash-скриптів, розроблених у рамках виконання лабораторних робіт з вивчення операційних систем (Варіант 8). Скрипти автоматизують роботу з текстом, файловою системою, процесами та потоками вводу/виводу.
 
-## 📋 Опис завдань (Варіант 8)
+## (Варіант 8)
 
 *   **Лабораторна робота №2: Обробка тексту та регулярні вирази**
     *   Підрахунок кількості слів у файлах (`wc`).
@@ -25,15 +25,4 @@
     *   Моніторинг процесів: виведення PID, імені користувача, команди та часу запуску через `ps`.
     *   Побудова дерева процесів (`pstree`) та безпечне завершення фонових задач (`kill`).
 
-## 🛠 Вимоги до середовища
-
-*   **ОС:** Будь-який Linux-дистрибутив (протестовано на Fedora Linux).
-*   **Інтерпретатор:** GNU Bash.
-*   **Додатково:** Деякі системні скрипти можуть вимагати підвищених привілеїв, хоча базові лабораторні виконуються від імені звичайного користувача.
-
-## 🚀 Як запустити
-
-1. Склонуйте репозиторій на свій локальний комп'ютер:
-   ```bash
-   git clone <посилання_на_твій_репозиторій>
-   cd <назва_папки>
+chmod +x lab2.sh lab3.sh lab4.sh lab5.sh
