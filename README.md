@@ -1,4 +1,4 @@
-#Лабораторні роботи з Linux Кулєшов Максим ІО-52
+# Лабораторні роботи з Linux Кулєшов Максим ІО-52
 
 [![OS - Fedora](https://img.shields.io/badge/OS-Fedora-294172?logo=fedora&logoColor=white)](https://fedoraproject.org/)
 [![Language - Bash](https://img.shields.io/badge/Language-Bash-4EAA25?logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
